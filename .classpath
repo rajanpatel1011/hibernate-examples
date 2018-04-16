@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/Ryan/Downloads/hibernate-release-5.2.16.Final/hibernate-release-5.2.16.Final/lib/optional/ehcache/ehcache-2.10.3.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/Ryan/Downloads/hibernate-release-5.2.16.Final/hibernate-release-5.2.16.Final/lib/required/hibernate-commons-annotations-5.0.1.Final.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/Ryan/Downloads/Jar_hibernate/antlr_2.7.6.jar/antlr_2.7.6.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/Ryan/Downloads/Jar_hibernate/antlr_2.7.6.jar/commons-logging-1.1.1-1.0.0.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/Ryan/Downloads/Jar_hibernate/commons-collections-3.2.1-1.0.0.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/Ryan/Downloads/mysql-connector-java-5.1.46/mysql-connector-java-5.1.46/mysql-connector-java-5.1.46.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/Ryan/Downloads/slf4j-nop-1.6.1.jar/slf4j-nop-1.6.1.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/Ryan/Downloads/slf4j-api-1.5.9-rc0.jar/slf4j-api-1.5.9-rc0.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/Ryan/Downloads/persistence-common-3.1.2.2.jar/persistence-common-3.1.2.2.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/Ryan/Downloads/jta-4.0.jar/jta-4.0.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/Ryan/Downloads/javassist-3.14.0-ga-1.0.0.jar/javassist-3.14.0-ga-1.0.0.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/Ryan/Downloads/javax.persistence.jar/javax.persistence.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Ryan/Downloads/hibernate-annotations-3.5.0-final.jar/hibernate-annotations-3.5.0-final.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Ryan/Downloads/dom4j-1.6.1-hudson-1.jar/dom4j-1.6.1-hudson-1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Ryan/Downloads/hibernate3.jar/hibernate3.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
